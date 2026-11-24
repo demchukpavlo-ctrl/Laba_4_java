@@ -1,0 +1,9 @@
+Hello, World! java 2026
+
+   
+zebra-Crossing 42
+Привіт, Java and kotlin!
+	 
+apple pie: 3.14
+12345 !!!
+My name is Pavlo
